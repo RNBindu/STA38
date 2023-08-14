@@ -41,7 +41,7 @@ This repository contains the solutions and analysis for the STA 380 assignment. 
 
 ## How to Reproduce
 1. Clone this repository:
-git clone https://github.com/RNBindu/STA38.git
+git clone https://github.com/RNBindu/STA380.git
 2. Navigate to the directory of each question's solution.
 3. Open the provided Jupyter Notebook or RMarkdown file to view the analysis.
 

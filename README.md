@@ -33,7 +33,7 @@ This repository contains the solutions and analysis for the STA 380 assignment. 
 - Solution: [Link to Jupyter Notebook](STA380%20The%20Reuters%20corpus%20-%20Question%207.ipynb)
 
 ### STA 380 - Association rule mining - Question 8
-- Solution: [Link to Jupyter Notebook]([STA380%20The%20Reuters%20corpus%20-%20Question%207.ipynb](https://github.com/RNBindu/STA38/blob/main/STA%20380%20-%20Association%20rule%20mining%20-%20Question%208.ipynb))
+- Solution: [Link to Jupyter Notebook](STA380%20The%20Reuters%20corpus%20-%20Question%207.ipynb)
   
 ### STA 380 - Image classification with neural networks - Question 9
 - Solution: [Link to Jupyter Notebook](STA380%20Image%20classification%20with%20neural%20networks%20-%20Question%209.ipynb)

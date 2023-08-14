@@ -1,9 +1,9 @@
 # STA 380 -  Assignment
 
 ## Group Members
-- Bindu Raghu Naga (Email: bindurn@utexas.edu, UT EID: br28722)
-- Ayaan Khan (Email: ayaankhan@my.utexas.edu, UT EID: ak46396)
 - Aakash Dhruva (Email: dhruvaaakash@utexas.edu, UT EID: avd667)
+- Ayaan Khan (Email: ayaankhan@my.utexas.edu, UT EID: ak46396)
+- Bindu Raghu Naga (Email: bindurn@utexas.edu, UT EID: br28722)
 - Sanjana Nayak (Email: sanjana.nayak@utexas.edu, UT EID: svn378)
 
 ## Introduction
@@ -47,8 +47,8 @@ git clone https://github.com/RNBindu/STA380.git
 
 ## Contact Information
 For any inquiries or clarifications, feel free to contact us:
-- Bindu Raghu Naga (Email: bindurn@utexas.edu, UT EID: br28722)
-- Ayaan Khan (Email: ayaankhan@my.utexas.edu, UT EID: ak46396)
 - Aakash Dhruva (Email: dhruvaaakash@utexas.edu, UT EID: avd667)
+- Ayaan Khan (Email: ayaankhan@my.utexas.edu, UT EID: ak46396)
+- Bindu Raghu Naga (Email: bindurn@utexas.edu, UT EID: br28722)
 - Sanjana Nayak (Email: sanjana.nayak@utexas.edu, UT EID: svn378)
 

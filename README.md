@@ -16,9 +16,9 @@ This repository contains the solutions and analysis for the STA 380 assignment. 
 
 ### STA 380 - Wrangling the Billboard Top 100 - Question 2
 - Solution: [Link to Jupyter Notebook](STA380%20Wrangling%20the%20Billboard%20Top%20100%20-%20Question%202.ipynb)
-
+  
 ### STA 380 - Visual story telling part 1 green buildings - Question 3
-- Solution: [Link to Jupyter Notebook](STA%20380%20-%20Visual%20story%20telling%20part%201%20green%20buildings%20-%20Question%203.ipynb)
+- Solution: [Link to Jupyter Notebook](https://github.com/RNBindu/STA38/blob/main/STA%20380%20-%20Visual%20story%20telling%20part%201%20green%20buildings%20-%20Question%203.ipynb)
 
 ### STA 380 - Visual story telling part 2- Capital Metro data - Question 4
 - Solution: [Link to Jupyter Notebook](STA380%20Visual%20story%20telling%20part%202-%20Capital%20Metro%20data%20-%20Question%204.ipynb)

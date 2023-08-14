@@ -4,7 +4,7 @@
 - Bindu Raghu Naga (Email: bindurn@utexas.edu, UT EID: br28722)
 - Ayaan Khan (Email: ayaankhan@my.utexas.edu, UT EID: ak46396)
 - Aakash Dhruva (Email: dhruvaaakash@utexas.edu, UT EID: avd667)
-- Sanjana Nayak (Email: sanjana.nayak@utexas.edu)
+- Sanjana Nayak (Email: sanjana.nayak@utexas.edu, UT EID: svn378)
 
 ## Introduction
 This repository contains the solutions and analysis for the STA 380 assignment. The assignment includes nine questions and each question is addressed using Python, and the analysis is presented with visualizations and explanations.
@@ -50,6 +50,5 @@ For any inquiries or clarifications, feel free to contact us:
 - Bindu Raghu Naga (Email: bindurn@utexas.edu, UT EID: br28722)
 - Ayaan Khan (Email: ayaankhan@my.utexas.edu, UT EID: ak46396)
 - Aakash Dhruva (Email: dhruvaaakash@utexas.edu, UT EID: avd667)
-- Sanjana Nayak (Email: sanjana.nayak@utexas.edu)
-
+- Sanjana Nayak (Email: sanjana.nayak@utexas.edu, UT EID: svn378)
 

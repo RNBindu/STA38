@@ -39,9 +39,17 @@ This repository contains the solutions and analysis for the STA 380 assignment. 
 - Solution: [Link to Jupyter Notebook](STA380%20Image%20classification%20with%20neural%20networks%20-%20Question%209.ipynb)
 
 
-## Data and Files
-- `groceries.txt`: Dataset containing grocery purchase transactions.
-- `C50train/` and `C50test/`: Directories with text documents for topic modeling.
-- ... (list other related data and files)
+## How to Reproduce
+1. Clone this repository:
+git clone https://github.com/RNBindu/STA38.git
+2. Navigate to the directory of each question's solution.
+3. Open the provided Jupyter Notebook or RMarkdown file to view the analysis.
+
+## Contact Information
+For any inquiries or clarifications, feel free to contact us:
+- Bindu Raghu Naga (Email: bindurn@utexas.edu, UT EID: br28722)
+- Ayaan Khan (Email: ayaankhan@my.utexas.edu, UT EID: ak46396)
+- Aakash Dhruva (Email: dhruvaaakash@utexas.edu, UT EID: avd667)
+- Sanjana Nayak (Email: sanjana.nayak@utexas.edu)
 
 

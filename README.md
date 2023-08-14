@@ -22,18 +22,18 @@ This repository contains the solutions and analysis for the STA 380 assignment. 
 
 ### STA 380 - Visual story telling part 2- Capital Metro data - Question 4
 - Solution: [Link to Jupyter Notebook](STA380%20Visual%20story%20telling%20part%202-%20Capital%20Metro%20data%20-%20Question%204.ipynb)
-- 
+  
 ### STA 380 - Clustering and dimensionality reduction - Question 5
-- Solution: [Link to Jupyter Notebook](STA380%20Clustering%20and%20dimensionality%20reduction%20-%20Question%205.ipynb)
+- Solution: [Link to Jupyter Notebook](https://github.com/RNBindu/STA38/blob/main/STA380%20%20Clustering%20and%20dimensionality%20reduction%20-%20%20Question%205.ipynb)
 
 ### STA 380 - Market segmentation - Question 6
-- Solution: [Link to Jupyter Notebook](STA380%20Visual%20story%20telling%20part%202-%20Capital%20Metro%20data%20-%20Question%204.ipynb)
+- Solution: [Link to Jupyter Notebook](https://github.com/RNBindu/STA38/blob/main/STA%20380%20-%20Market%20segmentation%20-%20Question%206.ipynb)
 
 ### STA 380 - The Reuters corpus - Question 7
 - Solution: [Link to Jupyter Notebook](STA380%20The%20Reuters%20corpus%20-%20Question%207.ipynb)
 
 ### STA 380 - Association rule mining - Question 8
-- Solution: [Link to Jupyter Notebook](STA380%20The%20Reuters%20corpus%20-%20Question%207.ipynb)
+- Solution: [Link to Jupyter Notebook](https://github.com/RNBindu/STA38/blob/main/STA%20380%20-%20Association%20rule%20mining%20-%20Question%208.ipynb)
   
 ### STA 380 - Image classification with neural networks - Question 9
 - Solution: [Link to Jupyter Notebook](STA380%20Image%20classification%20with%20neural%20networks%20-%20Question%209.ipynb)
